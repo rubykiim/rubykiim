@@ -6,7 +6,9 @@ _________________
 - 💬 I also speak **Typescript**, **Javascript**, and **Python** (also fluent in **Figma** 💜)
 - 🌱 I’m currently learning **Next.js** & **Langchain** (woooyesss AI)
 - ⚡ I've been very much interested in leveraging **AI** and **LLM** to make websites smarter lately!
-- 🔭 I’m working on a **collaborative mapping application** for work and a **Slack-based web app** that detects and organizes task-related messages to create automated reminders for my personal project (which uses Next.js, Langchain, and ChatGPT)
+- 🔭 I’m working on a ...
+  - **Collaborative Mapping Application** for work
+  - and a **Slack-based Web App (aka Taskify)** that detects and organizes task-related messages to create automated reminders for my personal project - using Next.js, Langchain, and ChatGPT
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ruby-kim/) or by sk7383@nyu.edu. Happy to chat, share, and learn!
 
 <!--
