@@ -1,5 +1,5 @@
 <p> Hi, I'm Ruby :) 👋 </p> 
-<p> As a <code>full-stack web developer</code>, I specialize in frontend technologies like <code>React and Tailwind</code>, and backend technologies like <code>Node.js, Express, and MongoDB</code>. </p>
+<p> As a <code>full-stack engineer</code>, I specialize in frontend technologies like <code>React and Tailwind</code>, and backend technologies like <code>Node.js, Express, and MongoDB</code>. </p>
 
 _________________
 
