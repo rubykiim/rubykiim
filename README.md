@@ -4,7 +4,7 @@
 _________________
 
 - 💬 I also speak **Typescript**, **Javascript**, and **Python** - fluent in **Figma** as well 💜
-- 🌱 I’m currently learning **Next.js** & **Langchain (with ChatGPT)** 
+- 🌱 I’m currently learning **Next.js** & **Langchain with ChatGPT** 
 - ⚡ I've lately been very much interested in leveraging **AI** and **LLM** to make websites smarter!
 - 🔭 I’m working on ...
   - **Wikistreets.io**, a collaborative mapping application
