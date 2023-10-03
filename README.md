@@ -1,4 +1,4 @@
-<p> Hi, I'm Ruby 👋 </p> 
+<p> Hi, I'm Ruby :) 👋 </p> 
 <p> As a <code>full-stack web developer</code>, I specialize in frontend technologies like <code>React and Tailwind</code>, and backend technologies like <code>Node.js, Express, and MongoDB</code>. </p>
 
 _________________
@@ -8,8 +8,7 @@ _________________
 - ⚡ I've been very much interested in leveraging **AI** and **LLM** to make websites smarter lately!
 - 🔭 I’m working on a **collaborative mapping application** for work and a **Slack-based web app** that detects and organizes task-related messages to create automated reminders for my personal project (which uses Next.js, Langchain, and ChatGPT).
 - 😄 Feel free to hover around my pinned projects down below
-- 📫 Always open to connect on [LinkedIn](https://www.linkedin.com/in/ruby-kim/) or by sk7383@nyu.edu!
-- Always happy to chat, share, and learn :)
+- 📫 Always open to connect on [LinkedIn](https://www.linkedin.com/in/ruby-kim/) or by sk7383@nyu.edu. Happy to chat, share, and learn!
 
 <!--
 **rubykiim/rubykiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
