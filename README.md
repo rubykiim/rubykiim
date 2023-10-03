@@ -3,7 +3,7 @@
 
 _________________
 
-- 💬 I also speak **Typescript**, **Javascript**, and **Python** - fluent in **Figma** as well💜
+- 💬 I also speak **Typescript**, **Javascript**, and **Python** - fluent in **Figma** as well 💜
 - 🌱 I’m currently learning **Next.js** & **Langchain (with ChatGPT)** 
 - ⚡ I've been very much interested in leveraging **AI** and **LLM** to make websites smarter lately!
 - 🔭 I’m working on ...
