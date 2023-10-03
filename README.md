@@ -8,7 +8,7 @@ _________________
 - ⚡ I've been very much interested in leveraging **AI** and **LLM** to make websites smarter lately!
 - 🔭 I’m working on a **collaborative mapping application** for work and a **Slack-based web app** that detects and organizes task-related messages to create automated reminders for my personal project (which uses Next.js, Langchain, and ChatGPT).
 - 😄 Feel free to hover around my pinned projects down below
-- 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ruby-kim/) or by sk7383@nyu.edu if you have any amazing thoughts!
+- 📫 Always open to connect on [LinkedIn](https://www.linkedin.com/in/ruby-kim/) or by sk7383@nyu.edu!
 - Always happy to chat, share, and learn :)
 
 <!--
