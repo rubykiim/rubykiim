@@ -3,12 +3,12 @@
 
 _________________
 
-- 💬 I also speak **Typescript**, **Javascript**, and **Python** (also fluent in **Figma** 💜)
-- 🌱 I’m currently learning **Next.js** & **Langchain** (woooyesss AI)
+- 💬 I also speak **Typescript**, **Javascript**, and **Python** - also fluent in **Figma** 💜
+- 🌱 I’m currently learning **Next.js** & **Langchain (with ChatGPT)** 
 - ⚡ I've been very much interested in leveraging **AI** and **LLM** to make websites smarter lately!
 - 🔭 I’m working on ...
   - **Wikistreets.io**, a collaborative mapping application
-  - **Taskify**, a Slack-based web app, that detects and organizes task-related messages to create automated reminders - using Next.js, Langchain, and ChatGPT
+  - **Taskify**, a Slack-based web app, that detects and organizes task-related messages to create automated reminders
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ruby-kim/) or by sk7383@nyu.edu. Happy to chat, share, and learn!
 
 <!--
