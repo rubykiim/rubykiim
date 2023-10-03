@@ -3,7 +3,7 @@
 
 _________________
 
-- 💬 I also speak Typescript, Javascript, and Python.
+- 💬 I also speak Typescript, Javascript, and Python (also quite fluent in Figma 💜).
 - 🌱 I’m currently learning **Next.js** & **Langchain** (woooyesss AI)
 - ⚡ I've been very much interested in leveraging AI to make websites smarter lately!
 - 🔭 I’m working on a **collaborative mapping application** for work and a **Slack-based web app** that detects and organizes task-related messages to create automated reminders for my personal project (which uses Next.js, Langchain, and ChatGPT).
