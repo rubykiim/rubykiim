@@ -8,7 +8,7 @@ _________________
 - ⚡ I've lately been very much interested in leveraging **AI** and **LLM** to make websites smarter!
 - 🔭 I’m working on ...
   - **Wikistreets.io**, a collaborative mapping application
-  - **Taskify**, a Slack-based web app, that detects and organizes task-related messages to create automated reminders
+  - **Taskify**, a Slack application that leverages Langchain and ChatGPT to automate task-related message detection and reminder notifications
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ruby-kim/) or by sk7383@nyu.edu. Happy to chat, share, and learn!
 
 <!--
