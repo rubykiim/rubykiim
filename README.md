@@ -1,10 +1,10 @@
 <p> Hi, I'm Ruby :) 👋 </p> 
-<p> As a <code>full-stack engineer</code>, I specialize in frontend technologies like <code>React and Tailwind</code>, and backend technologies like <code>Node.js, Express, and MongoDB</code>. </p>
+<p> As a <code>full-stack engineer</code>, I specialize in frontend technologies like <code>React and Tailwind</code>, and backend technologies like <code>Node.js, Express, and SQL, MongoDB</code>. </p>
 
 _________________
 
-- 💬 I also speak **Typescript**, **Javascript**, and **Python** - fluent in **Figma** as well
-- 🌱 I’m currently learning **Next.js** & **Langchain** 
+- 💬 Few other technologies: **Typescript**, **Javascript**, **Next.js**, **NativeScript**, **Python**, **Langchain**, **Docker**, **Figma**
+- 🌱 I’m currently learning **Large Language Models** 
 - ⚡ I've lately been very much interested in leveraging **AI** and **LLM** to make websites smarter!
 - 🔭 I’m working on ...
   - **Wikistreets.io**, a collaborative mapping application
